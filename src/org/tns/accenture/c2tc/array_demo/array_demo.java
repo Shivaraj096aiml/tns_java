@@ -13,7 +13,10 @@ public class array_demo {
 		
 		for (int i=0;i<=3;i++)
 		{
-			System.out.println(nums[i]);
+			System.out.println(nums[i]);       
+			
+			
+			
 		}
 		
 
